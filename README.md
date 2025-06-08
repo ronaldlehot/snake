@@ -1,4 +1,7 @@
 # snake
 ## 🐍 GitHub Activity Snake
 
-<img src="https://raw.githubusercontent.com/ronaldlehot/snake/output/github-contribution-grid-snake.svg" width="30%" />
+![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
+
+
+
