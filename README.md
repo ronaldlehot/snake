@@ -1,2 +1,4 @@
 # snake
-![snake gif](https://github.com/ronaldlehot/ronaldlehot/blob/output/github-contribution-grid-snake.gif)
+## 🐍 GitHub Activity Snake
+
+<img src="https://raw.githubusercontent.com/ronaldlehot/snake/output/github-contribution-grid-snake.svg" width="30%" />
